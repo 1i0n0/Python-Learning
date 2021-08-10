@@ -24,7 +24,7 @@ class Dice:
 
 
 if __name__ == "__main__":
-    sum = lambda x, y: x + y    # a lambda expression
+    sum = lambda x, y: x + y    # a lambda expression: sum(x, y) = x + y
     dice1 = Dice()
     dice2 = Dice()
 
