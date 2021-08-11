@@ -7,9 +7,9 @@ import random
 
 if __name__ == "__main__":
     max_num = 10
-    answer = random.randrange(1, max_num)
 
     print(f"I'm thinking of a number between 1 and {max_num}.")
+    answer = random.randrange(1, max_num)
 
     while True:
         try:
