@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# -*- coding = UTF-8 -*-
+# -*- coding: utf-8 -*-
 
 # Leap year: a year of 366 days instead of 365 with February having 29 days instead of 28
 
