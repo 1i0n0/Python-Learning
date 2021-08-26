@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# -*- coding = UTF-8 -*-
+# -*- coding: UTF-8 -*-
 
 # Determine whether the given number is Armstrong number or not.
 # An Armstrong number is a number that is the sum of its own digits
