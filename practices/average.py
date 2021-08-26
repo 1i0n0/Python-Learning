@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# -*- coding = UTF-8 -*-
+# -*- coding: utf-8 -*-
 
 # Compute the average of a set of values entered by the user
 # The running sum is printed as the numbers are entered
