@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# -*- coding = UTF-8 -*-
+# -*- coding: utf-8 -*-
 
 # Print the multiples of 7 and the numbers contain 7
 # up to a user-specified limit
