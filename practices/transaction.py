@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# -*- coding = UTF-8 -*-
+# -*- coding: utf-8 -*-
 
 # Create some bank accounts and requests various services
 class Account:
