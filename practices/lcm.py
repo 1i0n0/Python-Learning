@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# -*- coding = UTF-8 -*-
+# -*- coding: utf-8 -*-
 
 # Determine the least common multiple of two positive integer numbers.
 import sys
