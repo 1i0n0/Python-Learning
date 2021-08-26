@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# -*- coding = UTF-8 -*-
+# -*- coding: utf-8 -*-
 
 # Compute the average of a list of values entered by the user
 
